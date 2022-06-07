@@ -1,0 +1,15 @@
+D:\Laboratories\4 senester\Web\App\RestaurantApplication.Domain\bin\Debug\net5.0\RestaurantApplication.Domain.deps.json
+D:\Laboratories\4 senester\Web\App\RestaurantApplication.Domain\bin\Debug\net5.0\RestaurantApplication.Domain.runtimeconfig.json
+D:\Laboratories\4 senester\Web\App\RestaurantApplication.Domain\bin\Debug\net5.0\RestaurantApplication.Domain.runtimeconfig.dev.json
+D:\Laboratories\4 senester\Web\App\RestaurantApplication.Domain\bin\Debug\net5.0\RestaurantApplication.Domain.dll
+D:\Laboratories\4 senester\Web\App\RestaurantApplication.Domain\bin\Debug\net5.0\ref\RestaurantApplication.Domain.dll
+D:\Laboratories\4 senester\Web\App\RestaurantApplication.Domain\bin\Debug\net5.0\RestaurantApplication.Domain.pdb
+D:\Laboratories\4 senester\Web\App\RestaurantApplication.Domain\obj\Debug\net5.0\RestaurantApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Laboratories\4 senester\Web\App\RestaurantApplication.Domain\obj\Debug\net5.0\RestaurantApplication.Domain.AssemblyInfoInputs.cache
+D:\Laboratories\4 senester\Web\App\RestaurantApplication.Domain\obj\Debug\net5.0\RestaurantApplication.Domain.AssemblyInfo.cs
+D:\Laboratories\4 senester\Web\App\RestaurantApplication.Domain\obj\Debug\net5.0\RestaurantApplication.Domain.csproj.CoreCompileInputs.cache
+D:\Laboratories\4 senester\Web\App\RestaurantApplication.Domain\obj\Debug\net5.0\RestaurantApplication.Domain.dll
+D:\Laboratories\4 senester\Web\App\RestaurantApplication.Domain\obj\Debug\net5.0\ref\RestaurantApplication.Domain.dll
+D:\Laboratories\4 senester\Web\App\RestaurantApplication.Domain\obj\Debug\net5.0\RestaurantApplication.Domain.pdb
+D:\Laboratories\4 senester\Web\App\RestaurantApplication.Domain\obj\Debug\net5.0\RestaurantApplication.Domain.genruntimeconfig.cache
+D:\Laboratories\4 senester\Web\App\RestaurantApplication.Domain\obj\Debug\net5.0\RestaurantApplication.Domain.csproj.AssemblyReference.cache

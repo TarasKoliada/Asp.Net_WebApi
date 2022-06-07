@@ -1,0 +1,15 @@
+D:\Laboratories\4 senester\Web\App\RestaurantApplication.BusinessLogic\bin\Debug\net5.0\RestaurantApplication.BusinessLogic.deps.json
+D:\Laboratories\4 senester\Web\App\RestaurantApplication.BusinessLogic\bin\Debug\net5.0\RestaurantApplication.BusinessLogic.dll
+D:\Laboratories\4 senester\Web\App\RestaurantApplication.BusinessLogic\bin\Debug\net5.0\ref\RestaurantApplication.BusinessLogic.dll
+D:\Laboratories\4 senester\Web\App\RestaurantApplication.BusinessLogic\bin\Debug\net5.0\RestaurantApplication.BusinessLogic.pdb
+D:\Laboratories\4 senester\Web\App\RestaurantApplication.BusinessLogic\bin\Debug\net5.0\RestaurantApplication.Domain.dll
+D:\Laboratories\4 senester\Web\App\RestaurantApplication.BusinessLogic\bin\Debug\net5.0\RestaurantApplication.Domain.pdb
+D:\Laboratories\4 senester\Web\App\RestaurantApplication.BusinessLogic\obj\Debug\net5.0\RestaurantApplication.BusinessLogic.csproj.AssemblyReference.cache
+D:\Laboratories\4 senester\Web\App\RestaurantApplication.BusinessLogic\obj\Debug\net5.0\RestaurantApplication.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Laboratories\4 senester\Web\App\RestaurantApplication.BusinessLogic\obj\Debug\net5.0\RestaurantApplication.BusinessLogic.AssemblyInfoInputs.cache
+D:\Laboratories\4 senester\Web\App\RestaurantApplication.BusinessLogic\obj\Debug\net5.0\RestaurantApplication.BusinessLogic.AssemblyInfo.cs
+D:\Laboratories\4 senester\Web\App\RestaurantApplication.BusinessLogic\obj\Debug\net5.0\RestaurantApplication.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Laboratories\4 senester\Web\App\RestaurantApplication.BusinessLogic\obj\Debug\net5.0\RestaurantApplication.BusinessLogic.csproj.CopyComplete
+D:\Laboratories\4 senester\Web\App\RestaurantApplication.BusinessLogic\obj\Debug\net5.0\RestaurantApplication.BusinessLogic.dll
+D:\Laboratories\4 senester\Web\App\RestaurantApplication.BusinessLogic\obj\Debug\net5.0\ref\RestaurantApplication.BusinessLogic.dll
+D:\Laboratories\4 senester\Web\App\RestaurantApplication.BusinessLogic\obj\Debug\net5.0\RestaurantApplication.BusinessLogic.pdb
